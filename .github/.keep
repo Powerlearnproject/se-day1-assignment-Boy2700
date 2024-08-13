@@ -8,8 +8,6 @@ Software engineering is the systematic application of engineering principles to 
  Importance in the Technology Industry
 Software engineering is crucial in the technology industry because it enables the development of reliable, scalable, and maintainable software systems that are integral to modern businesses, communication, healthcare, education, and entertainment. As software becomes more complex and integral to every facet of life, the demand for robust engineering practices to manage this complexity and ensure quality is increasingly important.
 
-
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 Key Milestones in the Evolution of Software Engineering
 1950s - Birth of Software Development: The early days of software development where programs were written in machine code or assembly language. This period laid the groundwork for the concept of programming.
@@ -55,7 +53,6 @@ Unit Testing: Involves testing individual components or functions of the softwar
 Integration Testing: Focuses on testing the interactions between integrated components to verify that they work together as expected.
 System Testing: Tests the entire system as a whole to ensure that it meets the specified requirements.
 Acceptance Testing: Performed to determine whether the software meets the acceptance criteria and is ready for delivery to the customer. It often involves end-users testing the system.
-
 
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
