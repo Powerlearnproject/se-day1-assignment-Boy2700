@@ -1,4 +1,3 @@
-Ans
 
 Part 1: Introduction to Software Engineering
 1. What is Software Engineering?
